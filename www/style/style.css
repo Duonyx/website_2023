@@ -638,12 +638,11 @@ padding: 40px 0 20px 0;
 }
 
 .aproposbg{
-	background: url('../aproposbg.jpg');
+	background: url('../aproposbg3.png');
 	background-position: center;
 	background-size: cover;
 	height: 430px;
-	border-bottom: 30px solid #db2e8f; 
-
+	border-bottom: 30px solid #db2e8f;
 }
 
 
@@ -665,8 +664,7 @@ height: 100%;
 	font-weight: 700;
 	color: white;
 	letter-spacing: 0.5px;
-
-
+	padding-top: 20rem;
 }
 
 
